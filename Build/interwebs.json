@@ -1,0 +1,16 @@
+{
+"companyName": "Patrick Like and Subscribe",
+"productName": "Faller",
+"productVersion": "1",
+"dataUrl": "interwebs.data.unityweb",
+"wasmCodeUrl": "interwebs.wasm.code.unityweb",
+"wasmFrameworkUrl": "interwebs.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
